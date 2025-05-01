@@ -1008,6 +1008,29 @@ http://foxtv.zone.id/ublive.php?id=1288
 #EXTINF:-1 group-title="香港频道",城市電視
 http://foxtv.zone.id/ublive.php?id=1289
 
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png",广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F.png",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%8E%A2%E7%B4%A2%E4%BA%9A%E6%B4%B2.png",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93.png",探索频道
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E9%99%85.png",新加坡国际
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0307&tk=e640d0a1bf70
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E9%99%85.png",新加坡国际
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5618&tk=e640d0a1bf70
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E9%99%85.png",新加坡国际
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6578&tk=e640d0a1bf70
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E9%99%85.png",新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="香港频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E9%99%85.png",新加坡国际
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 group-title="新聞頻道",非凡新聞
 http://foxtv.zone.id/ublive.php?id=3236
 #EXTINF:-1 group-title="新聞頻道",CNN Indonesia
