@@ -1,6 +1,19 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="港澳頻道",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港澳頻道",ViuTV 
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="港澳頻道",NOW新闻台
+http://mytv.cdn.com.mp/live/now/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",Discovery
+http://mytv.cdn.com.mp/live/d/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="港澳頻道",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="港澳頻道",HOY78
+http://108.181.20.197/livehttpplay?channel_id=20191
 
 
 
