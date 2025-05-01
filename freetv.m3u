@@ -2,8 +2,7 @@
 
 #EXTINF:-1 group-title="港澳頻道",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="港澳頻道",ViuTV 
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
 #EXTINF:-1 group-title="港澳頻道",NOW新闻台
 http://mytv.cdn.com.mp/live/now/stream.m3u8
 #EXTINF:-1 group-title="港澳頻道",Discovery
