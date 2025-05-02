@@ -1,4 +1,42 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="1032489" tvg-name="UK| NOW HK NOW SPORTS 4K 616" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 4K 616
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032489&extension=ts&play_token=0MAZ95IHWo
+#EXTINF:-1 tvg-id="1032488" tvg-name="UK| NOW HK NOW SPORTS 4K 617" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 4K 617
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032488&extension=ts&play_token=RYMtCtJYCp
+#EXTINF:-1 tvg-id="1032487" tvg-name="UK| NOW HK PREMIER SPORTS 1" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 1
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032487&extension=ts&play_token=1yycZDMJu1
+#EXTINF:-1 tvg-id="1032486" tvg-name="UK| NOW HK PREMIER SPORTS 2" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 2
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032486&extension=ts&play_token=Jx8CB9NlNs
+#EXTINF:-1 tvg-id="1032485" tvg-name="UK| NOW HK PREMIER SPORTS 3" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 3
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032485&extension=ts&play_token=PyUT8rkOwu
+#EXTINF:-1 tvg-id="1032484" tvg-name="UK| NOW HK PREMIER SPORTS 4" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 4
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032484&extension=ts&play_token=NlVaMnAb1x
+#EXTINF:-1 tvg-id="1032483" tvg-name="UK| NOW HK PREMIER SPORTS 5" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 5
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032483&extension=ts&play_token=byxUgLPj0i
+#EXTINF:-1 tvg-id="1032482" tvg-name="UK| NOW HK PREMIER SPORTS 6" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 6
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032482&extension=ts&play_token=99jLufcTaU
+#EXTINF:-1 tvg-id="1032481" tvg-name="UK| NOW HK PREMIER SPORTS 7" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 7
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032481&extension=ts&play_token=PoSfgp1zrN
+#EXTINF:-1 tvg-id="1032480" tvg-name="UK| NOW HK PREMIER SPORTS 8" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK PREMIER SPORTS 8
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032480&extension=ts&play_token=0LDsPD376L
+#EXTINF:-1 tvg-id="1032479" tvg-name="UK| NOW HK NOW SPORTS 1" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 1
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032479&extension=ts&play_token=zAAJ7upHnM
+#EXTINF:-1 tvg-id="1032478" tvg-name="UK| NOW HK NOW SPORTS 2" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 2
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032478&extension=ts&play_token=ionegU2LSy
+#EXTINF:-1 tvg-id="1032477" tvg-name="UK| NOW HK NOW SPORTS 3" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 3
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032477&extension=ts&play_token=sDsOPNjQQO
+#EXTINF:-1 tvg-id="1032476" tvg-name="UK| NOW HK NOW SPORTS 4" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 4
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032476&extension=ts&play_token=KHHYZN1ujH
+#EXTINF:-1 tvg-id="1032475" tvg-name="UK| NOW HK NOW SPORTS 5" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 5
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032475&extension=ts&play_token=i0VT9nOXS7
+#EXTINF:-1 tvg-id="1032474" tvg-name="UK| NOW HK NOW SPORTS 6" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 6
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032474&extension=ts&play_token=iH0ow2w50e
+#EXTINF:-1 tvg-id="1032473" tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="" group-title="UK| NOW EPL",UK| NOW HK NOW SPORTS 7
+http://mag.greatott.me:80/play/live.php?mac=00:1a:79:d3:be:93&stream=1032473&extension=ts&play_token=2ml0GKN8gU
+
+
+
 #EXTINF:-1 group-title="香港频道",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="香港频道",HOY TV
