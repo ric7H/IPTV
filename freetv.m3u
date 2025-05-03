@@ -6227,6 +6227,83 @@ https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="Smart☠️源",日本|NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
 
+#EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G" tvg-logo="" group-title="日本",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E" tvg-logo="" group-title="日本",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-id="Nippon_TV" tvg-name="NTV" tvg-logo="" group-title="日本",NTV
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="" group-title="日本",TBS
+http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 tvg-id="Fuji_TV" tvg-name="Fuji TV" tvg-logo="" group-title="日本",Fuji TV
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-id="TV_Asahi" tvg-name="TV Asahi" tvg-logo="" group-title="日本",TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-id="TV_Tokyo" tvg-name="TV Tokyo" tvg-logo="" group-title="日本",TV Tokyo
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-id="Tokyo_MX1" tvg-name="TOKYO MX1" tvg-logo="" group-title="日本",TOKYO MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-id="MBS" tvg-name="MBS" tvg-logo="" group-title="日本",MBS
+http://luong.utako.moe/mbs/index.m3u8
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="" group-title="日本",ABC
+http://luong.utako.moe/abc/index.m3u8
+#EXTINF:-1 tvg-id="TVO" tvg-name="TV Osaka" tvg-logo="" group-title="日本",TV Osaka
+http://luong.utako.moe/tvo/index.m3u8
+#EXTINF:-1 tvg-id="Kansai_TV" tvg-name="Kansai TV" tvg-logo="" group-title="日本",Kansai TV
+http://luong.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 tvg-id="YTV" tvg-name="ytv" tvg-logo="" group-title="日本",ytv
+http://luong.utako.moe/ytv/index.m3u8
+#EXTINF:-1 tvg-id="KBS" tvg-name="KBS" tvg-logo="" group-title="日本",KBS
+http://luong.utako.moe/kbs/index.m3u8
+#EXTINF:-1 tvg-id="SUN_TV" tvg-name="SUN TV" tvg-logo="" group-title="日本",SUN TV
+http://luong.utako.moe/suntv/index.m3u8
+#EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="" group-title="日本",NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="日本",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 tvg-id="BS11" tvg-name="BS11" tvg-logo="" group-title="日本",BS11
+http://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 tvg-id="NHK_BSP4K" tvg-name="NHK BSP4K" tvg-logo="" group-title="日本",NHK BSP4K
+http://luong.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-id="BS_NTV" tvg-name="BS NTV" tvg-logo="" group-title="日本",BS NTV
+http://luong.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 tvg-id="BS_Asahi" tvg-name="BS Asahi" tvg-logo="" group-title="日本",BS Asahi
+http://luong.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 tvg-id="BS_TBS" tvg-name="BS TBS" tvg-logo="" group-title="日本",BS TBS
+http://luong.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 tvg-id="BS_TV_Tokyo" tvg-name="BS TV Tokyo" tvg-logo="" group-title="日本",BS TV Tokyo
+http://luong.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 tvg-id="BS_Fuji" tvg-name="BS Fuji" tvg-logo="" group-title="日本",BS Fuji
+http://luong.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 tvg-id="WOWOW_Prime" tvg-name="WOWOW Prime" tvg-logo="" group-title="日本",WOWOW Prime
+http://luong.utako.moe/wprime/index.m3u8
+#EXTINF:-1 tvg-id="WOWOW_Cinema" tvg-name="WOWOW Cinema" tvg-logo="" group-title="日本",WOWOW Cinema
+http://luong.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 tvg-id="WOWOW_Live" tvg-name="WOWOW Live" tvg-logo="" group-title="日本",WOWOW Live
+http://luong.utako.moe/wlive/index.m3u8
+#EXTINF:-1 tvg-id="J_Sports_1" tvg-name="J Sports 1" tvg-logo="" group-title="日本",J Sports 1
+http://luong.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-id="J_Sports_2" tvg-name="J Sports 2" tvg-logo="" group-title="日本",J Sports 2
+http://luong.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-id="J_Sports_3" tvg-name="J Sports 3" tvg-logo="" group-title="日本",J Sports 3
+http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-id="J_Sports_4" tvg-name="J Sports 4" tvg-logo="" group-title="日本",J Sports 4
+http://luong.utako.moe/js4/index.m3u8
+#EXTINF:-1 tvg-id="AT-X" tvg-name="AT-X" tvg-logo="" group-title="日本",AT-X
+http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="" group-title="日本",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="Space_Shower" tvg-name="Space Shower" tvg-logo="" group-title="日本",Space Shower
+http://luong.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 tvg-id="Pigoo" tvg-name="Pigoo-test" tvg-logo="" group-title="日本",Pigoo-test
+http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 tvg-id="TBS_CH1" tvg-name="TBS Channel 1" tvg-logo="" group-title="日本",TBS Channel 1
+http://luong.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 tvg-id="TBS_CH2" tvg-name="TBS Channel 2" tvg-logo="" group-title="日本",TBS Channel 2
+http://luong.utako.moe/tbsch2/index.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="私密頻道",Pigoo
