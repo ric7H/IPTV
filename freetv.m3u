@@ -6267,27 +6267,50 @@ http://luong.utako.moe/tbsch1/index.m3u8
 http://luong.utako.moe/tbsch2/index.m3u8
 
 
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY INFO
+
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 1 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684509
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 2 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684510
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 2 4K UHD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684508
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 3 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684507
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 4 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684506
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 5 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684505
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 6 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684504
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 7 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684503
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 8 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684502
+#EXTINF:-1 group-title="┃UK┃ HUB PREMIER" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/UKHUBPREMIERE.png",┃UK┃ HUB PREMIER 9 HD
+http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/684501
+
+
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY INFO
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830116
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 1
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 1
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830115
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 2
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 2
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830114
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 3
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 3
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830113
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 4
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 4
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830112
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 5
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 5
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830111
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 6
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 6
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830110
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 7
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 7
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830109
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 8
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 8
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830108
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 9
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 9
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830107
-#EXTINF:-1,┃UK┃ PREMIER LEAGUE REPLAY 10
+#EXTINF:-1 group-title="┃UK┃ PREMIER LEAGUE REPLAY" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png",┃UK┃ PREMIER LEAGUE REPLAY 10
 http://line.tivi-ott.net:80/WE5ZXY/PFGRV6/830106
 
 
